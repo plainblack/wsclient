@@ -1,0 +1,17 @@
+####################################################################
+#                   Web Services Client Credits                    #
+####################################################################
+
+The following people/companies are responsible for SQL Form:
+
+
+Original Concept and Code ...........Martin Kamerbeek / Oqapi
+
+Contributing Developers..............Len Kranendonk
+                                     Colin Kuskie
+                                     Kaleb Murphy
+                                     Chris Nehren
+                                     Alan Ritari
+                                     JT Smith
+                                     Matthew Wilson
+
